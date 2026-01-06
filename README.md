@@ -1,4 +1,1 @@
-# Patika-Java101Projeleri
-
-
-##### www.patika.dev
+Java SE Practice
